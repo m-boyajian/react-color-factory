@@ -1,0 +1,14 @@
+.nav-container {
+  display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 14px;
+}
+
+.nav-container p {
+	margin-right: 40px;
+}
+
+.nav-container ul {
+	margin-left: 10px;
+}
